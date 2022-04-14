@@ -19,5 +19,5 @@ end point -> 738,259
 
 output image ->
 <p align="center">
-  <img src="output/Figure_1.png" width="550" title="output">
+  <img src="output/Figure_1.png" width="650" title="output">
 </p>
