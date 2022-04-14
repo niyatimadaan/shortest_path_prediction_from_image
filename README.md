@@ -19,5 +19,5 @@ end point -> 738,259
 
 output image ->
 <p align="center">
-  <img src="output/Figure_1" width="350" title="hover text">
+  <img src="output/Figure_1.png" width="350" title="hover text">
 </p>
