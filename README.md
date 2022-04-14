@@ -10,7 +10,7 @@ for eg -
 
 input image ->
 <p align="center">
-  <img src="Files/Image1.png" width="350" title="hover text">
+  <img src="Files/Image1.png" width="550" title="input">
 </p>
 
 start point ->1017,891
@@ -19,5 +19,5 @@ end point -> 738,259
 
 output image ->
 <p align="center">
-  <img src="output/Figure_1.png" width="350" title="hover text">
+  <img src="output/Figure_1.png" width="550" title="output">
 </p>
